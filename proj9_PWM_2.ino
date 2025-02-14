@@ -1,5 +1,3 @@
-//Wykorzystanie sygnału PWM do użycia diody RGB na dwóch pinach Timera1 i jednym pinie Timera2
-
 #include <avr/io.h>
 #include <util/delay.h>
 #include <string.h>
